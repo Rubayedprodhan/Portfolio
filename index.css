@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(20, 85, 96) !important;
+    color: white;
+}
+.item{
+    list-style: none;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.item:hover{
+    color: rgb(54, 178, 45);
+    cursor: pointer;
+}
+.photo-box{
+    width: 380px;
+    height: 430px;
+}
+.name-title{
+    font-size: 65px;
+    font-weight: bolder;
+    color: rgb(0, 255, 76);
+}
+.s-icon{
+    padding: 5px;
+    font-size: 32px;
+    color: rgb(10, 10, 10);
+}
+.fa-brands{
+    color: rgb(255, 255, 255);
+}
+.title{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.project-1{
+    width: 75%;
+border: 1px solid gray;
+}
+.project-title{
+    color: cyan;
+    font-weight: bold;
+    text-align: justify;
+}
+.project-desc{
+    text-align: justify;
+}
+.t-button{
+    background-color: #632a94;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+}
+.edu-title{
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(0, 255, 55);
+    padding: 5px;
+}
+.form{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid gray;
+    color: #fff;
+}
+.i-item{
+    padding: 14px;
+    margin: 10px;
+    
+}
+.textarea{
+    padding: 34px;
+    margin: 10px;
+  
+}
+.s-btn{
+    background-color: #6c757d;
+    width: 50%;
+    color: cyan;
+    font-weight: bold;
+    padding: 15px 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.s-btn:hover{
+    background-color: #b3330f;
+}
+.s-f{
+    background-color: black;
+}
